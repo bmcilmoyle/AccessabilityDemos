@@ -1,2 +1,2 @@
 # AccessabilityDemos
-Unity Demo's to showcase Accessibility features.
+WIP Unity Demo to showcase in game Accessibility features.
